@@ -80,7 +80,7 @@ Choose the root directory of your clone of the repository.
 
 ![Select maven projects to import](images/Eclipse/eclipse-2.png)
 
-To run and debug recruiment from STS(Spring Tool Suite), spring boot dashboard has everything to run and debug.
+To run and debug embl_ebi_practical_test from STS(Spring Tool Suite), spring boot dashboard has everything to run and debug.
 
 
 
