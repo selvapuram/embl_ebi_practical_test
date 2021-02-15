@@ -88,4 +88,11 @@ To run and debug embl_ebi_practical_test from STS(Spring Tool Suite), spring boo
 
 You can run the server tests directly from Eclipse. right click on the source folder ![](src/test/java), select `Run As` -> `Junit Test`. This should open a new tab with the junit launcher running the embl_ebi_practical_test service tests.
 
+### Deployment
+
+The current project has been deployed using heroku environment. It has been connected with github and pipeline has been setup. Staging only.
+
+https://restfulmicroservices.herokuapp.com/swagger-ui.html
+
+
 
